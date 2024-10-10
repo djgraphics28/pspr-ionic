@@ -1,0 +1,7 @@
+{
+  "name": "pspr",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
